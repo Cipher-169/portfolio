@@ -57,6 +57,6 @@ Digite uma data no formato (DD/MM/AAAA): 29/02/2024
 
 ## 🚀 Como clonar
 ```bash
-git clone https://github.com/seu-usuario/portifolio-python
-cd portifolio-python
+git clone https://github.com/Cipher-169/portfolio
+cd portfolio/python
 ```
